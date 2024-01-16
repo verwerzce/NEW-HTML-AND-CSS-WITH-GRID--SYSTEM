@@ -1,0 +1,65 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search-bar{
+    padding: 12px 12px 12px 12px;
+    width: 300px;
+    outline: none;
+    display: block;
+}
+.author-image{
+    width: 400px;
+}
+
+.video-info-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.video-preview{
+    display: inline-block;
+    color: blueviolet;
+    vertical-align: top;
+    margin-right: 20px;
+    background-color: goldenrod;
+   
+}
+.picture{
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 17px;
+}
+
+
+.video-title{
+   width: 330px;
+   margin-top: 0;
+   font-size: 20px;
+   font-weight: bolder;
+}
+.video-title1{
+color: red;
+}
+.video-title2{
+   color: gold; 
+}
+
+.author{
+    display: inline-block;
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.author-title{
+    font-size: 20px;
+    margin-top: 0;   
+}
+.author-title1{
+    margin-top: 50px;
+    width: 330px;
+}
+.author-title2{
+   margin-top: 20px; 
+}
+    

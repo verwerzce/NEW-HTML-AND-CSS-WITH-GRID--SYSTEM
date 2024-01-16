@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    padding-bottom: 50px;
+}
+.intent{
+    display: grid;
+    grid-template-columns: 200px 300px 500px 200px;
+}
+.using-of-frame{
+    display: grid;
+    grid-template-columns: 200px 2fr  3fr;
+}
+.first{
+    background-color: rgb(224, 231, 24);
+    color: rgb(16, 3, 3);
+    margin-top: 12px;
+    height: 145px;
+
+}
+.second{
+    background-color: rgb(194, 31, 227);
+    color: red;
+    margin-top: 12px;
+    height: 145px;
+
+}
+.third{
+    background-color: rgb(124, 224, 18);
+    color: red;
+    margin-top: 12px;
+    height: 145px;
+    
+
+}
+.fourth{
+    background-color: rgb(58, 16, 197);
+    color: white;
+    margin-top: 12px;
+    height: 145px;
+}
+.fifth{
+    background-color: rgb(162, 153, 190);
+    color: white;
+    margin-top: 12px;
+    height: 145px;
+    text-align: center;
+}
+.d{
+    margin-top: 12px;
+    display: grid;
+    column-gap: 30px;
+    row-gap: 40px;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 400px;
+    text-align: center;
+}
+

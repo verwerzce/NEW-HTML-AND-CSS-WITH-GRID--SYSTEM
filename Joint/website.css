@@ -1,0 +1,36 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Pahawh+Hmong&family=Oswald:wght@500&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:wght@400;500;700;900&family=Rubik+Iso&display=swap');
+
+button{
+    line-height: 10px;
+   
+
+}
+.c h3{
+    line-height: 40px;
+    font-weight: bolder;
+    font-size: 30px;
+    width: 400px;
+    color:#6495ed;
+    margin-bottom: -10px;
+}
+.c p{
+    font-size: 20px;
+    color:  rgb(0, 0, 0);
+    background-color: #6495ed;
+    padding: 30px 30px 30px 30px;
+    margin-right: 60%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+    
+    
+}
+.c h4{
+    font-size: 30px;
+    width: 50%;
+    line-height: 40px;
+    font-weight: lighter;
+    
+
+}
